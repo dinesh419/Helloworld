@@ -5,7 +5,7 @@
 <body>
 	<h1>Hello earth!</h1>
 	<p>
-		alagey movayya
+		alagey athhammaa
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from peddapadu
